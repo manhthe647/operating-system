@@ -1,2 +1,4 @@
-# Operating_Systems
-Tool tính toán bài tập cơ sở hệ điều hành
+# Cơ sở hệ điều hành
+Tool tính toán bài tập cơ sở hệ điều hành ( round robin, srt, sjf,... )
+## Sử dụng online tại đây
+https://www.onlinegdb.com/myfiles/IEkPfeRoL
